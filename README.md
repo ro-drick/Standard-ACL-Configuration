@@ -202,7 +202,7 @@ Feel free to extend this lab by experimenting with more complex ACLs, such as ex
 
 ## Files
 
-- **Packet Tracer Lab File**: [Download here](STD)
+- **Packet Tracer Lab File**: [Download here](STD-ACL.pka)
 
 ---
 
