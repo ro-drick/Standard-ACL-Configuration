@@ -13,6 +13,8 @@ This lab demonstrates how to configure a **Standard Access Control List (ACL)** 
 - **Frame Relay**: Connects the two routers (R1 and R2).
 - **Switches**: Provide connectivity between routers, servers, and PCs.
 
+<img src= "https://github.com/ro-drick/Standard-ACL-Configuration/blob/main/STD-ACL.jpg">
+
 ---
 
 ## Objectives
